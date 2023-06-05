@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NotificationProject</string>
+    <string name="content_title">Notification Github</string>
+    <string name="content_text">Klik untuk masuk ke github</string>
+    <string name="subtext">Github</string>
+    <string name="send_notif">Send Notif</string>
 </resources>
